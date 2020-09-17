@@ -1,0 +1,79 @@
+{
+  "Dollar": 7.35,
+
+  "EnergyPrice": {
+    "Industry": 0.490737,
+    "Business": 0.537714,
+    "Domicile": 0.365564,
+    "AgrcltWatering": 0.486213,
+    "Lightning": 0.492204
+  },
+
+  "PanelEnergyPrice": 0.3125,
+
+  "InverterCatalog": [
+    {
+      "model": "GW700-XS Smart Inverter",
+      "power": 700, "inVolt": "40:450",
+      "price": 280
+    },
+    {
+      "model": "GW1000-XS Smart Inverter",
+      "power": 1000, "inVolt": "40:450",
+      "price": 367
+    },
+    {
+      "model": "GW1500-XS Smart Inverter",
+      "power": 1500, "inVolt": "40:450",
+      "price": 388
+    },
+    {
+      "model": "GW2000-XS Smart Inverter",
+      "power": 2000, "inVolt": "40:450",
+      "price": 467
+    },
+    {
+      "model": "GW2500-XS Smart Inverter",
+      "power": 2500, "inVolt": "40:450",
+      "price": 516
+    },
+    {
+      "model": "GW3000-XS Smart Inverter",
+      "power": 3000, "inVolt": "40:450",
+      "price": 577
+    },
+    {
+      "model": "GW3000D-NS Smart Inverter",
+      "power": 3000, "inVolt": "80:550",
+      "price": 662
+    },
+    {
+      "model": "GW3600D-NS Smart Inverter",
+      "power": 3600, "inVolt": "80:550",
+      "price": 726
+    },
+    {
+      "model": "GW4200D-NS Smart Inverter",
+      "power": 4200, "inVolt": "80:550",
+      "price": 767
+    },
+    {
+      "model": "GW5000D-NS Smart Inverter",
+      "power": 5000, "inVolt": "80:550",
+      "price": 810
+    }
+  ],
+
+  "ConstructionUPrice": 50,
+
+  "ControlBoard": 10,
+
+  "Y_ConnectorUPrice": 5,
+
+  "SolarCablePrice": 0.65,
+
+  "ACCablePrice": 10,
+
+  "LaborPercentage": 0.05
+
+}
